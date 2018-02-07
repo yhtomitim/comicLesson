@@ -1,6 +1,6 @@
 # ajax-drill
 
-Exercise using AJAX calls to the Pokemon API and DOM manipulation
+Exercise using AJAX calls to the xkcd site and DOM manipulation
 
 #### Create a file index.html
 #### Create a file app.js
